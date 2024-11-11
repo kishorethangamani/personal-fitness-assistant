@@ -1,0 +1,6 @@
+streamlit
+langflow
+pandas
+numpy
+requests
+python-dotenv
